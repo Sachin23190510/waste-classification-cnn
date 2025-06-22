@@ -21,12 +21,19 @@ Includes categories like: cardboard, glass, metal, paper, plastic, trash.
 
 🛠️ Technologies Used
 
+
 Python
+
 TensorFlow / Keras
+
 NumPy
+
 OpenCV
+
 Matplotlib
+
 Google Colab
+
 
 📊 Model Performance
 
